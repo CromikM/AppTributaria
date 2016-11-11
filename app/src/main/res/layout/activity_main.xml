@@ -24,5 +24,5 @@
         android:layout_toRightOf="@+id/textView"
         android:layout_toEndOf="@+id/textView"
         android:layout_marginTop="137dp"
-        android:id="@+id/button" />
+        android:id="@+id/buttontes" />
 </RelativeLayout>
