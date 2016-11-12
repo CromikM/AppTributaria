@@ -16,13 +16,5 @@
         android:text="Hello World!"
         android:id="@+id/textView" />
 
-    <Button
-        android:text="dar clic"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="134dp"
-        android:id="@+id/buttontes"
-        android:layout_below="@+id/textView"
-        android:layout_toRightOf="@+id/textView"
-        android:layout_toEndOf="@+id/textView" />
+    
 </RelativeLayout>
