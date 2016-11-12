@@ -63,4 +63,11 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/CromikM/AppTributaria" />
+      </list>
+    </option>
+  </component>
 </application>
