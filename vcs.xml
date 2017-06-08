@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/CromikM/AppTributaria.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/material-components/material-components-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Joseph\AndroidStudioProjects\galardones\AppTributaria" />
+    <option name="cloneParentDir" value="C:\MaterialComponets" />
   </component>
 </application>
